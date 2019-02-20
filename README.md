@@ -14,5 +14,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        annotationProcessor 'com.github.wzx54321:xinrouter_compiler:Tag'
+	        annotationProcessor 'com.github.wzx54321:xinrouter_compiler:1.0.5'
 	}
