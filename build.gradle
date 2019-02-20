@@ -12,13 +12,3 @@ dependencies {
 sourceCompatibility = "7"
 targetCompatibility = "7"
 
-buildscript {
-
-    repositories {
-       
-        maven { url 'https://jitpack.io' }
-    }
-
-
-
-}
